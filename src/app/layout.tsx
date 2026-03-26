@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Go Functions on EdgeOne Pages - Gin Framework",
+  title: "Gin + EdgeOne Pages",
   description: "Go Functions allow you to run Go web frameworks like Gin on EdgeOne Pages. Build full-stack applications with Gin's powerful routing, middleware, and JSON handling.",
 };
 
@@ -25,7 +25,7 @@ export default function RootLayout({
   return (
     <html lang="en-US">
       <head>
-        <link rel="icon" href="/eo-logo-blue.svg" />
+        <link rel="icon" href="/gin-favicon.svg" />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
