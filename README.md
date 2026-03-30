@@ -173,7 +173,7 @@ Uses `class-variance-authority` to manage component style variants with multiple
 
 ## 📚 Documentation
 
-- **EdgeOne Pages Official Docs**: [https://pages.edgeone.ai/document/go-functions](https://pages.edgeone.ai/document/go-functions)
+- **EdgeOne Pages Official Docs**: [https://pages.edgeone.ai/document/go](https://pages.edgeone.ai/document/go)
 - **Gin Framework**: [https://gin-gonic.com/docs](https://gin-gonic.com/docs)
 - **Next.js Documentation**: [https://nextjs.org/docs](https://nextjs.org/docs)
 - **Tailwind CSS Documentation**: [https://tailwindcss.com/docs](https://tailwindcss.com/docs)
